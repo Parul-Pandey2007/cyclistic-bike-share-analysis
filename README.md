@@ -65,6 +65,8 @@ The annual dashboard presents four key visualizations:
 
 The dashboard provides a visual comparison of casual riders and annual members across the study period.
 
+![Cyclistic Annual Dashboard](cyclistic-annual-dashboard.png)
+
 ## Recommendations
 
 1. **Weekend Membership Promotions:** Introduce targeted membership offers to attract casual riders who frequently ride on weekends.
